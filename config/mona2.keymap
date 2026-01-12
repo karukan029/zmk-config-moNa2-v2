@@ -99,7 +99,7 @@
         layer_2 {
             bindings = <
 &kp EXCLAMATION  &kp AT_SIGN         &kp POUND          &kp DOLLAR           &kp PERCENT                               &kp CARET        &kp AMPERSAND  &kp ASTERISK  &kp MINUS  &kp UNDER
-&kp LEFT_SHIFT   &kp LC(LEFT_ARROW)  &kp LC(UP_ARROW)   &kp LC(RIGHT_ARROW)  &trans                 &trans             &mkp MB3         &mkp MB1       &mkp MB2      &kp EQUAL  &kp PLUS
+&kp ESCAPE       &kp LC(LEFT_ARROW)  &kp LC(UP_ARROW)   &kp LC(RIGHT_ARROW)  &trans                 &trans             &mkp MB3         &mkp MB1       &mkp MB2      &kp EQUAL  &kp PLUS
 &kp GRAVE        &kp TILDE           &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE     &trans       &trans    &trans             &trans           &trans         &trans        &trans     &trans
 &trans           &trans              &trans             &trans               &trans       &trans    &kp RIGHT_COMMAND  &kp RIGHT_SHIFT                                          &trans
             >;
